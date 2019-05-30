@@ -1,0 +1,4 @@
+﻿  MultiProjectApplication.cpp
+c:\users\andrey\source\repos\multiprojectapplication\multiprojectapplication\multiprojectapplication.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MultiProjectApplication.vcxproj -> C:\Users\Andrey\source\repos\MultiProjectApplication\Debug\MultiProjectApplication.exe
+  MultiProjectApplication.vcxproj -> C:\Users\Andrey\source\repos\MultiProjectApplication\Debug\MultiProjectApplication.pdb (Partial PDB)
